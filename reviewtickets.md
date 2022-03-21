@@ -1,6 +1,6 @@
 {% include nav.html %}
 
-#Review Tickets: 
+<h2> Review Tickets: </h2>
 <ol> 
   <li> <a href="https://github.com/Reem57/Trimester-3-CSP/issues/1">Week 0 Review Ticket</a></li>
 
