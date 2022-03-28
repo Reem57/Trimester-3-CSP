@@ -1,6 +1,5 @@
 {% include navigation.html %}
 <h1> Test Prep Study (Section 5) </h1>
-{% include notes.html %}
 <h2> 5.1 Beneficial & Harmful Effects </h2>
 <a>
     
