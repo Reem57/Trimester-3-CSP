@@ -1,4 +1,4 @@
-{% include navigation.html %}
+{% include nav.html %}
 <h1> Test Prep Study </h1>
 <h2> 5.1 Beneficial & Harmful Effects </h2>
 <a>
