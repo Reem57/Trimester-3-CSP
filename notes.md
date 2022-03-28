@@ -1,7 +1,6 @@
 {% include navigation.html %}
-
 <h1> Test Prep Study (Section 5) </h1>
-
+{% include notes.html %}
 <h2> 5.1 Beneficial & Harmful Effects </h2>
 <a>
     
@@ -46,9 +45,7 @@
     2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
     
     Dopamine is a real issue, as dopamine is very addicting. Every human is prone to seeking out things that make them happy, and that is what dopamine is. If a certain thing gives you a constant amount of dopamine, you're likely to become addicted to it, which would impact your life in numerous ways. It would affect sleep schedules and social lives, should you spend too much time doing it, and it would eventually affect how you perform in school. This can be seen in myself through playing too many games rather than studying, which is severely affecting my sleep schedule, but it definitely isn't as bad as Anthony Rosner.
-
 <h2> 5.2 Digital Divide </h2>
-
 <a>
     
     Internet access varies between socioeconomic, geographic, and demographic characteristics, as well as between countries
@@ -60,7 +57,6 @@
         The digital divide raises issues of equity, access, and influence, both globally and locally
     
         The digital divide is affected by the actions of individuals, organizations, and governments
-
 <a>
     
     Questions:
@@ -110,9 +106,7 @@
     What would you or should you do to produce a better outcome?
     
     I would try to fix it by running tests until darker skins coul dbe accounted for in the program's detection of faces.
-
 <h2> 5.4: Crowdsourcing </h2>
-
 <a>
         
     Public Data Sets:
@@ -148,102 +142,5 @@
     A crowdsource idea might be to have one big collaborative github project/repo, where every team is working on a seperate part of a lrager project, which would benefit the environment by pushing it out to family and friends and serving its purpose.
     
     What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
-    
-    DNHS crowdsourcing is directing material and classes to better benefit the student majority. The final project could be better with crowdsourcing if we correctly display info based on our client.
-    
-<h2> 5.5: Legal and Ethical Concerns </h2>
-     
-<a>
-        
-    Open source - Programs feely available and can be modified/redistributed
-        
-    Open access - Online research output free of restriction access like copyright and licensing
-        
-    Intellectual Property: (IP), work or invention that's a result of creativity to which one has rights
-        
-    Copyright:
-        
-        - Protects your IP and keeps anybody from using it unless you get permission
-       
-        - Plagiarism, presenting material as ur own
-        
-        - Legal ways to use material
-        
-        - Open source
-        
-        - Open access
-        
-        - Creative Commons
-        
-    Creative Commons:
-        
-        - Provides a free license to tell others how ur gonna use their IP
-        
-        - Defines the usage of IP
-        
-    Digital Divide:
-        
-        - Unequal distribution of access to technology
-<a>
-    
-    Questions
-        
-<h2> 5.6: Safe Computinga </h2>
-     
-        
-        Personal Identifiable Information:
-        
-            - Info specific to an individual
-        
-            - Can be used to steal/impersonate from somebody
-        
-        (PII) Search engines maintain history of what you search
-        
-            - Search history used to suggest other websites for marketing
-        
-            - Can collect location
-        
-            GOOD
-        
-                - Can enhance the users experience
-        
-            BAD
-        
-                - Can be exploited if privacy is ignored
-        
-                - Etc. Cookies and trackers
-        
-        Risks to Privacy:
-        
-            - Google knows where you live, and your IP
-        
-            - WiFi signal may be tracked
-        
-            - Stores w/ cameras can store your image
-        
-            - All this info can be put online, which is hard to get rid of
-        
-            - This info could be used against you and it could give other info about you that you didn't intend to share
 
-        Authentication:
-        
-            - Authentication measures protect devices and information form unauthorized access
-        
-            - Measures strong passwords and 2FA
-        
-        Virus and Malware:
-        
-            - Bad
-        
-            - Can copy and gain access to your information
-        
-            - Intended to harm and damage a computer
-        
-        Encryption:
-        
-            - Prevents unauthorized access
-        
-        Decryption:
-        
-            - Decoding data
-<a>
+    DNHS crowdsourcing is directing material and classes to better benefit the student majority. The final project could be better with crowdsourcing if we correctly display info based on our client.
