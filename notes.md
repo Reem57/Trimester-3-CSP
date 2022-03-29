@@ -207,6 +207,5 @@
         Decryption:
 
             - Decoding data
-<a>
 
     Questions
