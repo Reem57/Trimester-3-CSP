@@ -1,5 +1,4 @@
 def printTree():
-    import random
     row = int((input("How large should the tree be? ")))
     for x in range(row):
         x+=1

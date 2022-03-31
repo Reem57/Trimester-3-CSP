@@ -1,5 +1,5 @@
 from Week0.MenuChallengeThree import printTree
-from Week0.MenuChallengeFour import printShip
+from Week0.MenuChallengeFour import ship
 from Week0.MenuChallengeTwo import print_matr
 from Week0.MenuChallengeTwo import swap
 from Week1.fibonacci import fibonacci
@@ -33,11 +33,11 @@ subMenu = {
 }
 
 drawing = {
-    1: {"display":"Christmas Tree",
+  1: {"display":"Christmas Tree",
         "exec":printTree,
         "type":"func"},
-    2: {"display":"Ship",
-        "exec":printShip,
+    2: {"display":"Aardvark",
+        "exec":ship,
         "type":"func"},
     3: {"display":"Keypad ",
         "exec":print_matr,
