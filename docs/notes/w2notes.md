@@ -1,4 +1,5 @@
-    
+ {% include nav.html %}
+ 
  <h2> 5.5: Legal and Ethical Concerns </h2>
 
     <a>
