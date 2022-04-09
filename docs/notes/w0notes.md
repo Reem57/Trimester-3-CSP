@@ -1,3 +1,5 @@
+{% include nav.html %}
+
 <h2> 5.1 Beneficial & Harmful Effects </h2>
 <a>
     

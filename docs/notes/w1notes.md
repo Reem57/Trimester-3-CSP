@@ -1,3 +1,4 @@
+{% include nav.html %}
 
 <h2> 5.3 Computing Bias </h2>
 
