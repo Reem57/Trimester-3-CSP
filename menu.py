@@ -8,6 +8,10 @@ from Week1.list import all_loops
 from Week2.hack2 import dispfac
 from Week2.hack2 import dispSeries
 from Week2.hack3 import superfac
+from Week3.mathematics import createTask
+from Week3.mathematics import logic
+from Week3.mathematics import inputLogic
+from Week3.mathematics import randomLogic
 
 def buildMenu(menu):
     for key,value in menu.items():
@@ -44,6 +48,18 @@ drawing = {
         "type":"func"}
 }
 
+createTaskMenu = {
+  1: {"display":"Print List",
+      "exec":createTask,
+      "type":"func"},
+  2: {"display":"Input Number to repeat",
+    "exec": inputLogic,
+    "type":"func"},
+  3: {"display":"Generate a random number to repeat",
+    "exec": randomLogic,
+    "type":"func"}
+}
+
 math = {
   1: {"display":"Swap ",
       "exec":swap,
@@ -51,6 +67,9 @@ math = {
   2: {"display":"Fibonacci",
     "exec": subMenu,
     "type":"submenu"},
+  3: {"display":"Create Task Options",
+    "exec": createTaskMenu,
+    "type":"submenu"}
 }
 factorialMenu = {
   1: {
