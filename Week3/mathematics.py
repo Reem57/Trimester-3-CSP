@@ -12,6 +12,8 @@ def createTask():
       myList.append(int(a))
   print(*myList)
 
+def error:
+
 def logic(a):
   for i in range (1, a + 1):
     myList = []
@@ -25,7 +27,23 @@ def logic(a):
     print(len(myList), end=" ")
 
 def inputLogic():
-  logic(int(input("how many times do you want the function to run? ")))
+  n = input("how many times do you want the function to run? ")
+  try:
+    n = int(n)
+    assert n > 0 
+    logic(n)
+  except AssertionError:
+    print("Please enter a positive number")
+    print("Try again")
+    inputLogic()
+  except ValueError:
+    print("This is not a number")
+    print("Try again")
+    inputLogic()
+    
+    
+    
+  
 
 def randomLogic():
   randomValue = random.randint(2,100)
