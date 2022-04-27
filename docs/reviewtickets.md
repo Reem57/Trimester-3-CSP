@@ -11,4 +11,6 @@
   <li> <a href="https://github.com/Reem57/Trimester-3-CSP/issues/5"> Week 3 Review Ticket</a> </li>
   
   <li> <a href="https://github.com/Reem57/Trimester-3-CSP/issues/6"> Week 4 Review Ticket</a> </li>
+  
+  <li> <a href="https://github.com/Reem57/Trimester-3-CSP/issues/7"> Week 5 Review Ticket</a> </li>
 </ol>
