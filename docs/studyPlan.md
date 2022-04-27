@@ -1,3 +1,5 @@
+{% include nav.html %}
+
 ##Study Plan
 
 Monday - Work on writen response/Create Task, Review Big Idea 1
