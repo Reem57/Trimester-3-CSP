@@ -35,34 +35,32 @@ then I entered the number 14. The output was a list of values “0 1 7 2 5 8 16 
 ## 3.b.i.
 ## 3.b.ii.
 3.b.iii.
-The name of the list is myList
+ - The name of the list is myList
 ## 3.b.iv.
-The list stores the values of the number after its being multiplied and divided. For example, if my number is 5, the
+ - The list stores the values of the number after its being multiplied and divided. For example, if my number is 5, the
 program will multiply five by three then add one and store the output (“the odd/even program”). 3 * 5 + 1 = 16 so sixteen is
 the number that will be stored. This process will repeat (differently for even and odd numbers) until it reaches a value of
 one.
 ## 3 c.
 ## 3.b.v.
-Using a list in my code has two major benefits to manage the complexity of the code. One is having the length of the list
+ -Using a list in my code has two major benefits to manage the complexity of the code. One is having the length of the list
 “handy” and could be used whenever is needed. The second benefit is that specific values from the list could be identified
 easily and used later. If a list wasn’t used, to print the values you would have to have
-print(i) instead of myList.append(int(i))
-. And to have the length of the list you would have to have a separate variable which can be called count.
+print(i) instead of myList.append(int(i)). And to have the length of the list you would have to have a separate variable which can be called count.
 This variable would have to increase by one each time the loop repeats. So above the while loop, you will have to include
 count = 0 and right after the while loop starts you will have to include count = count +1.
 ## 3.c.i.
 ## 3.c.ii.
 ## 3 d.
 ## 3.c.iii.
-The function above, logic,
-is where the main procedure runs. It runs the number of times the user wants it to run using the parameter a
+ - The function above, logic,is where the main procedure runs. It runs the number of times the user wants it to run using the parameter a
 . The function goes through every single integer from two to the selected value a
 and runs the “odd/even program.” Then the function outputs the number of times the odd/even program had to be run in
 order to get to a value of one. This procedure is used in my program to run the basic logic of the odd/even program while
 changing the parameter
 a without having to retype the entire program thus I can call it when needed later on.
 ## 3.c.iv.
-The algorithm is repeating from 1 to a
+ - The algorithm is repeating from 1 to a
 (the parameter) + 1 using a for loop since the value 0 can’t be run in the function. Then each time the program runs, it
 creates a new list called
 myList
@@ -73,14 +71,14 @@ i is divided by two is equal to zero. If it’s even, it divides the value by tw
 using the line myList.append(int(i)). If it’s odd, the procedure multiples the value by three, adds 1, and adds it to the list.
 Lastly, it prints the total length of the list using the line print(len(myList), end=” “) and adds a space after.
 ## 3.d.i.
-First call:
+ - First call:
 def test1():
 logic(7)
-Second call:
+ - Second call:
 def test2():
 logic(20)
 ## 3 d.ii.
-Condition(s) tested by first call:
+ - Condition(s) tested by first call:
 In this call, the parameter a
 is given a value of 7. Meaning that the logic function will repeat 7 times which will display the length of the list 7 times
 from the number 1 to 8. The while checks if the value
@@ -93,7 +91,7 @@ from the number 1 to 21. The while checks if the value
 i is not equal to one. The if statement checks if the value of i
 is even or odd and proceeds with the function accordingly. This is repeated 20 times according to the parameter.
 ## 3.d.iii.
-Results of the first call:
+ - Results of the first call:
 0,1,7,2,5,8,16
-Results of the second call:
+ - Results of the second call:
 0,1,7,2,5,8,16,3,19,6,14,9,9,17,17,4,12,20,20,7
