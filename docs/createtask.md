@@ -34,7 +34,7 @@ then I entered the number 14. The output was a list of values “0 1 7 2 5 8 16 
 (generates the random number of 16) and outputs the following list of values “0 1 7 2 5 8 16 3 19 6 14 9 9 17 17 4.”
 ## 3.b.i.
 ## 3.b.ii.
-3.b.iii.
+## 3.b.iii.
  - The name of the list is myList
 ## 3.b.iv.
  - The list stores the values of the number after its being multiplied and divided. For example, if my number is 5, the
