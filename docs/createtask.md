@@ -5,10 +5,6 @@ Requirements:
 Input and an Output
 At least one list
 At least one procedure
-
-[Video](https://user-images.githubusercontent.com/89223508/166567192-e03fa7d2-9657-4c5a-8df5-b2661bb019cb.mp4)
-
-
 At least one algorithm
 Idea:
 Video
@@ -24,7 +20,7 @@ Response to prompts 3a-3d
 Responses here:
 
 # Video
- - 
+ - [Video](https://user-images.githubusercontent.com/89223508/166567192-e03fa7d2-9657-4c5a-8df5-b2661bb019cb.mp4)
 
 # 3. WRITTEN RESPONSES
 ## 3.a.i.
