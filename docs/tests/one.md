@@ -4,6 +4,8 @@
 
 {% include tests.html %}
 
+## Score - 46/50
+
 ![image](https://user-images.githubusercontent.com/89223508/166715592-63b17364-335e-44ed-8269-e0dc6cbdc5bd.png)
 I knew that that the first option is correct but I didn't know if the costumer's phone number is also being stored or not in the orginial system.
 
