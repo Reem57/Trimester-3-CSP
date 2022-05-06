@@ -1,3 +1,10 @@
+{% include nav.html %}
+
+# Test Corrections
+
+{% include tests.html %}
+
+## Score - 44/50
 ![image](https://user-images.githubusercontent.com/89223508/167192830-5035ebc7-2105-4f25-bd6f-f967d877ea0f.png)
 I didn't know what the TCP and IP are used for so I really jused guessed what I thought was the best option. Now I know that they establish a standard when sending messages. 
 
