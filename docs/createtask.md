@@ -19,11 +19,11 @@ Written Response
 Response to prompts 3a-3d
 Responses here:
 
-# [Code](https://reem57.github.io/Trimester-3-CSP/datastructures)
+# [Code](https://github.com/Reem57/Trimester-3-CSP/files/8643614/Create.Performance.Task.Code.1.pdf)
 
 # [Video](https://user-images.githubusercontent.com/89223508/166567192-e03fa7d2-9657-4c5a-8df5-b2661bb019cb.mp4)
 
-# 3. WRITTEN RESPONSES
+# 3. [WRITTEN RESPONSES](https://github.com/Reem57/Trimester-3-CSP/files/8643630/U2WU779Y_WR.pdf)
 ## 3.a.i.
  - There is a math problem that mathematicians can't solve called the Collatz Conjecture. The purpose of my program is to
 use computer science to try find patterns in the problem and help the mathematicians.
@@ -36,8 +36,8 @@ the list just like mathematicians would use the could to decode the problem.
 then I entered the number 14. The output was a list of values “0 1 7 2 5 8 16 3 19 6 14 9 9 17 “. The last input is choosing
 “Generate a random number to repeat” by inputting 3, then the program displayed “The function is going to run 16 times”
 (generates the random number of 16) and outputs the following list of values “0 1 7 2 5 8 16 3 19 6 14 9 9 17 17 4.”
-## 3.b.i.
-## 3.b.ii.
+## [3.b.i.](https://user-images.githubusercontent.com/89223508/167216714-9227053b-8337-4ee0-913b-709b4a63a564.png)
+## [3.b.ii.](https://user-images.githubusercontent.com/89223508/167216744-e3b0a13b-f37c-4d1d-bbb8-481fee702478.png)
 ## 3.b.iii.
  - The name of the list is myList
 ## 3.b.iv.
@@ -45,7 +45,6 @@ then I entered the number 14. The output was a list of values “0 1 7 2 5 8 16 
 program will multiply five by three then add one and store the output (“the odd/even program”). 3 * 5 + 1 = 16 so sixteen is
 the number that will be stored. This process will repeat (differently for even and odd numbers) until it reaches a value of
 one.
-## 3 c.
 ## 3.b.v.
  -Using a list in my code has two major benefits to manage the complexity of the code. One is having the length of the list
 “handy” and could be used whenever is needed. The second benefit is that specific values from the list could be identified
@@ -53,9 +52,8 @@ easily and used later. If a list wasn’t used, to print the values you would ha
 print(i) instead of myList.append(int(i)). And to have the length of the list you would have to have a separate variable which can be called count.
 This variable would have to increase by one each time the loop repeats. So above the while loop, you will have to include
 count = 0 and right after the while loop starts you will have to include count = count +1.
-## 3.c.i.
-## 3.c.ii.
-## 3 d.
+## [3.c.i.](https://user-images.githubusercontent.com/89223508/167216838-57f5425d-ccaf-4df7-95c4-4abe25edf733.png)
+## [3.c.ii.](https://user-images.githubusercontent.com/89223508/167216849-c45b8f19-0b72-48a9-b0c7-a2facbaedeed.png)
 ## 3.c.iii.
  - The function above, logic,is where the main procedure runs. It runs the number of times the user wants it to run using the parameter a
 . The function goes through every single integer from two to the selected value a
