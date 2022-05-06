@@ -19,6 +19,8 @@ Written Response
 Response to prompts 3a-3d
 Responses here:
 
+# [Code](https://reem57.github.io/Trimester-3-CSP/datastructures)
+
 # [Video](https://user-images.githubusercontent.com/89223508/166567192-e03fa7d2-9657-4c5a-8df5-b2661bb019cb.mp4)
 
 # 3. WRITTEN RESPONSES
