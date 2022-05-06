@@ -31,4 +31,7 @@ Since the name appears in both databases it makes sense that the researcher coul
 I didn't know what "citizen science" meant so I just guessed again. If I new what it was I would eliminate that option immediately.
 
 ![image](https://user-images.githubusercontent.com/89223508/166964075-fc257511-5b06-4d18-b802-ba07261acce7.png)
+I assumed that the cost of the item is known for each individual item so I picked that option. Since we don't have that information we can't determine that statement is true
 
+![image](https://user-images.githubusercontent.com/89223508/167191261-d72db5dc-3445-47de-a0be-937c4631c7fb.png)
+I assumed that with the first spreadsheet you can determine the GPA and see if its high or low. They didn't classify what is a high GPA so I elminated the 3.5 and above GPA spreadsheet.
